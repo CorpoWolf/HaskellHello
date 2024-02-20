@@ -8,9 +8,14 @@ command: `rm *.o` and `rm *.hi`
 
 ## Git CLI commands:
 (Why? Because I need to write these down somewhere so deal with it 😉)
--git init (Initialize the project)
-
+- git init (Initialize the project)
+- git commit -m "Type message here"
+- git branch -M main
+- git remote add origin https://github.com/myrepo.git
+- git push -u origin main
 
 ## VSCode Keyboard home controls:
 (Why? Because I personally want to avoid moving my hands to mouse or arrow keys)
 (Consideration: Windows Powershell / VSCode / Defaults)
+- Powershell :: create file `ni hello.hs` (ni - shorthand for new-item)
+- VSCode :: open file `Ctrl + P` type name && navigate down w/ `Ctrl + P`
