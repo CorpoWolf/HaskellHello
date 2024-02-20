@@ -19,3 +19,9 @@ command: `rm *.o` and `rm *.hi`
 (Consideration: Windows Powershell / VSCode / Defaults)
 - Powershell :: create file `ni hello.hs` (ni - shorthand for new-item)
 - VSCode :: open file `Ctrl + P` type name && navigate down w/ `Ctrl + P`
+- VSCode :: keyboard shortcuts `Ctrl + K, Ctrl + S`
+
+## VS Code Add keybind to Folders
+Title: workbench.views.service.auxiliarybar.689dd27a-aeef-468c-85c3-d64367440523: Focus on Folders View
+ID: workbench.explorer.fileView.focus
+Keybind: `ctrl + shift + e`
