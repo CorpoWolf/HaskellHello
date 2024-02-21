@@ -3,7 +3,7 @@
 
 ## Compilation Steps
 command: `stack ghc -- hello.hs -o ./build/hello.exe`
-command: `rm *.o` and `rm *.hi`
+command: `rm *.o` and `rm *.hi` or `rm *.o, *.hi`
 
 
 ## Git CLI commands:
